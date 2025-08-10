@@ -3,7 +3,7 @@ public class Biodata
 	public static void main(String[]args)
 	{
 		System.out.println("\t\t\tBIO DATA");
-		System.out.println("---------------------------------------------");
+		System.out.println("--------------------------------------------");
 		String name="Gobidasan M";
 		int age=21;
 		String dob="07-10-2004";
