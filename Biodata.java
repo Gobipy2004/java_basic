@@ -24,5 +24,6 @@ public class Biodata
 		System.out.println("Skills:\t\t"+skill);
 		System.out.println("Phone:\t\t"+phone);
 		System.out.println("Languages:\t"+language);
+                System.out.println("--------------------------------------------");
 	}
 }
